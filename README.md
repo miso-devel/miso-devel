@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="/svg/me.svg" width="100vw" height="600px" alt="css-in-readme">
+    <img src="/svg/me.svg" width="100%" height="800px" alt="css-in-readme">
 </div>
