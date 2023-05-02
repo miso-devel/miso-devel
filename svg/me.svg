@@ -1,6 +1,6 @@
 <svg fill="none" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%" style="border-radius: 10px;">
-        <div xmlns="http://www.w3.org/1999/xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 10px;">
             <style>
                 @keyframes hi {
                     0% {
@@ -61,7 +61,7 @@
                     animation: gradient 15s ease infinite;
 
                     width: 100%;
-                    height: 100%;
+                    height: 100vh;
 
                     display: flex;
                     justify-content: center;
