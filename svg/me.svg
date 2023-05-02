@@ -1,4 +1,5 @@
-<svg fill="none" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" style='margin: auto;'>
+<svg fill="none" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg"
+    style="display: flex; justify-content: center;">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
