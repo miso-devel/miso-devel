@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 300" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -67,7 +67,7 @@
                     justify-content: center;
                     align-items: center;
                     color: white;
-                    border-radius: 5%;
+                    border-radius: 10%;
 
                     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
                 }
