@@ -103,7 +103,6 @@
                     justify-content: center;
                     align-items: center;
                     margin: 40px;
-                    padding: 40px;
                 }
             </style>
 
@@ -111,10 +110,9 @@
                 <div>
                     <h1>Hi there, my name is miso <div class="hi">👋</div>
                     </h1>
-                    <div>
+                    <div class='logo'>
                         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
-                            xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px" height="200px"
-                            class='logo'>
+                            xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px" height="200px">
                             <path fill="#99E550" opacity="1.000000" stroke="none" d="
 M225.000000,501.000000
 	C150.000015,501.000000 75.500038,501.000000 1.000040,501.000000
