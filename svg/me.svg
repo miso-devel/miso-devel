@@ -100,7 +100,7 @@
 					display: flex;
 					justify-content: center;
 					align-items: center;
-					margin: 10px;
+					margin: 3px;
 				}
 
 				.radius {
@@ -110,8 +110,6 @@
 
 			<div class="container">
 				<div>
-					<h1>Hi there, my name is miso <div class="hi">👋</div>
-					</h1>
 					<div class='logo'>
 						<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
 							xmlns:xlink="http://www.w3.org/1999/xlink" class='radius' width="150px" height="150px">
@@ -423,6 +421,8 @@ z" />
 								d="M205.858612,180.999603 C205.858597,184.420990 205.858597,187.360931 205.858597,190.576508 C200.776443,190.576508 196.235886,190.576508 191.416901,190.576508 C191.416901,184.102692 191.416901,177.900299 191.416901,171.424606 C196.234238,171.424606 200.774796,171.424606 205.858627,171.424606 C205.858627,174.638565 205.858627,177.578354 205.858612,180.999603z" />
 						</svg>
 					</div>
+					<h1>Hi there, my name is miso <div class="hi">👋</div>
+					</h1>
 				</div>
 			</div>
 		</div>
