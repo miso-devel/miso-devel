@@ -67,6 +67,7 @@
 					padding: 10px 10px;
 					height:80vh;
 				width:90%;
+				margin: auto;
 
 
 					font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
