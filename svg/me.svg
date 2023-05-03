@@ -1,5 +1,5 @@
-<svg fill="none" width="90%" height="100%" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="90%" height="100%">
+<svg fill="none" width="95%" height="100%" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="95%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				@keyframes hi {
@@ -60,7 +60,7 @@
 					background-size: 400% 400%;
 					animation: gradient 15s ease infinite;
 
-					width: 90%;
+					width: 95%;
 					height: 100vh;
 
 					display: flex;
