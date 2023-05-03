@@ -104,7 +104,6 @@
 					justify-content: center;
 					align-items: center;
 					margin: 3px;
-					transform: scale(0.5);
 				}
 
 				.radius {
