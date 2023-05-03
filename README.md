@@ -4,4 +4,12 @@
 
 ## Info
 
-- B4 software engineer
+B4 software engineer in Kyoto
+
+## Love
+
+TypeScript, Deno, Rust
+
+## Contact
+
+[Twitter](https://twitter.com/mis0dev)
