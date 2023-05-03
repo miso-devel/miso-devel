@@ -50,10 +50,6 @@
 					}
 				}
 
-				.introduce {
-					font-size: 13px;
-				}
-
 				.container {
 					--color-main: #5452ee;
 					--color-primary: #e73c7e;
@@ -111,6 +107,7 @@
 				}
 
 				p {
+  				        font-size: 14px;
 					text-align: center;
 				}
 			</style>
@@ -119,7 +116,7 @@
 				<div>
 					<div class='logo'>
 						<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
-							xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20%" viewBox="0 0 500 500"
+							xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40%" viewBox="0 0 500 500"
 							enable-background="new 0 0 500 500" xml:space="preserve" class='radius'>
 							<path fill="#99E550" opacity="1.000000" stroke="none" d="
 M225.000000,501.000000
