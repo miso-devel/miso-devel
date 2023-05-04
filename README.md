@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="width: 100%;">
     <img src="/svg/me.svg" style="width: 100%;" height="250px" alt="css-in-readme">
 </div>
 
