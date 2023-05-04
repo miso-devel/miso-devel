@@ -8,7 +8,7 @@ B4 software engineer in Kyoto
 
 ## Love
 
-TypeScript, Deno, Rust
+TypeScript, Rust, Deno
 
 ## Contact
 
