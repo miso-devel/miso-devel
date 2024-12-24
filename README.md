@@ -4,11 +4,11 @@
 
 ## Info
 
-B4 software engineer in Kyoto
+B4 software engineer in Osaka
 
 ## Love
 
-TypeScript, Rust, Deno
+TypeScript | Rust | Deno
 
 ## Contact
 
