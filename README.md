@@ -4,7 +4,7 @@
 
 ## Info
 
-B4 software engineer in Osaka
+software engineer in Osaka
 
 ## Love
 
