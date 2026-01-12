@@ -1,15 +1,5 @@
 <div align="center" style="width: 100%;">
-    <img src="/svg/me.svg" style="width: 100%;" alt="css-in-readme">
+    <img src="me.svg" style="width: 100%;">
 </div>
 
-## Info
-
-software engineer in Osaka
-
-## Love
-
-TypeScript | Rust | Deno
-
-## Contact
-
-[Twitter](https://twitter.com/mis0dev)
+created by [うごくsvg](https://ugoku-svg.miso-repositories.deno.net/)
