@@ -1,5 +1,5 @@
-<div align="center" style="width: 100%;">
-    <img src="me.svg" style="width: 100%;">
-</div>
 
-created by [うごくsvg](https://ugoku-svg.miso-repositories.deno.net/)
+<img src="me.svg">
+
+
+created by [うごく.svg](https://ugoku-svg.miso-repositories.deno.net/)
